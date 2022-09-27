@@ -1,1 +1,1 @@
-This is a repo for the Data Analytics FOundation class
+This is a repo for the Data Analytics Foundation class
